@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "T15EHD22": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7009",
+      "launchBrowser": false
+    }
+  }
+}
